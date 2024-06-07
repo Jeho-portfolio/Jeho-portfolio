@@ -1,4 +1,4 @@
-### Hi there 👋
+### 정제호입니다.
 
 <!--
 **Jeho-portfolio/Jeho-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
